@@ -1,0 +1,51 @@
+Servings per day,Item,Total Caffeine (in mg),Caffeine (mg),Serving (ml),Category
+Coffee (180 ml cup),Drip brewed,100 mg per 180 ml,100,180,Coffee
+Coffee (180 ml cup),Percolated,120 mg per 180 ml,120,180,Coffee
+Coffee (180 ml cup),Instant,90 mg. per 180 ml,90,180,Coffee
+Coffee (180 ml cup),Brewed decaffeinated,5 mg per 180 ml,5,180,Decaf
+Coffee (180 ml cup),Instant decaffeinated,3 mg per 180 ml,3,180,Decaf
+Tea (180 ml cup),Green,35 mg per 180 ml,35,180,Tea
+Tea (180 ml cup),Black,70 mg per 180 ml,70,180,Tea
+Tea (180 ml cup),Canned ice tea,35 mg per 360 oz can,35,180,Tea
+Cocoa,Cocoa beverages,13 mg per 180 ml,13,180,Cocoa
+Chocolate,Milk chocolate,6 mg per 30 ml,6,30,Chocolate
+Chocolate,Baking chocolate,35 mg per 30 ml,35,,Candy
+Soft drinks (360 ml can),Leading colas (regular and diet),45 mg,45,360,Soft Drinks
+Soft drinks (360 ml can),Dr. Pepper,40 mg,40,360,Soft Drinks
+Soft drinks (360 ml can),Mello Yello,53 mg,53,360,Soft Drinks
+Soft drinks (360 ml can),Mountain Dew,54 mg,54,360,Soft Drinks
+Soft drinks (360 ml can),Mr. Pibb,41 mg,41,360,Soft Drinks
+Soft drinks (360 ml can),OK Soda,40 mg,40,360,Soft Drinks
+Soft drinks (360 ml can),Jolt Cola,72 mg,72,360,Soft Drinks
+Energy drinks,28 Energy Drink,80 mg,80,250,Energy drinks and Concentrates
+Energy drinks,6 Hour Power,125 mg,125,60,Energy drinks and Concentrates
+Energy drinks,BANG Energy Drink,357 mg,357,473,Energy drinks and Concentrates
+Energy drinks,Biggby Iced Coffee,192 mg,192,473,Coffee
+Energy drinks,Caffeine Energy Drink,140 mg,140,473,Energy drinks and Concentrates
+Energy drinks,Chameleon Cold Brew Coffee,2160 mg,2160,946,Energy drinks and Concentrates
+Energy drinks,Cocaine Energy Drink,280 mg,280,248,Energy drinks and Concentrates
+Energy drinks,Diablo Energy Drink,95 mg,95,248,Energy drinks and Concentrates
+Energy drinks,Guayaki Empower Mint,140 mg,140,473,Energy drinks and Concentrates
+Energy drinks,Hardcore Energize Bullet,300 mg,300,85,Energy drinks and Concentrates
+Energy drinks,Java Monster,188 mg,188,443,Energy drinks and Concentrates
+Energy drinks,Liquid Lightning,200 mg,200,473,Energy drinks and Concentrates
+Energy drinks,Monster Energy Drink,160 mg,160,473,Energy drinks and Concentrates
+Energy drinks,Neurofuel Energy Drink,128 mg,128,354,Energy drinks and Concentrates
+Energy drinks,Octane Energy Drink,225 mg,225,354,Energy drinks and Concentrates
+Energy drinks,Potencia Energy Drink,250 mg,250,473,Energy drinks and Concentrates
+Energy drinks,Rage Inferno,375 mg,375,710,Energy drinks and Concentrates
+Energy drinks,Red Bull,80 mg,80,250,Energy drinks and Concentrates
+Energy drinks,Speed Energy Drink,186 mg,186,473,Energy drinks and Concentrates
+Energy drinks,Starbucks Tall Coffee,260 mg,260,355,Coffee
+Energy drinks,Ubermonster Energy Brew,160 mg,160,473,Energy drinks and Concentrates
+Energy drinks,Venom Black Mamba,160 mg,160,473,Energy drinks and Concentrates
+Energy drinks,Zun Energy Drink,100 mg,100,354,Energy drinks and Concentrates
+Chocolate,Small candy bar,25 mg per bar,25,,Candy
+Medications (per tablet),Anacin,32 mg,32,,Med
+Medications (per tablet),"Dristan (i.e., acetylsalicylic acid+caffeine)",16 mg,16,,Med
+Medications (per tablet),"Dexatrim (i.e., phenylpropanolamine+caffeine)",16 mg,16,,Med
+Medications (per tablet),"Excedrin (i.e., acetaminophen+acetylsalicylic acid+caffeine)",200 mg,200,,Med
+Medications (per tablet),"Midol (i.e., acetaminophen+pyrilamine maleate+caffeine)",32 mg,32,,Med
+Medications (per tablet),"Nodoz (i.e., caffeine)",100 mg,100,,Med
+Medications (per tablet),"Vivarin (i.e., caffeine)",200 mg,200,,Med
+Medications (per tablet),"Vanquish (i.e., acetaminophen+acetylsalicylic acid+caffeine)",33 mg,33,,Med
